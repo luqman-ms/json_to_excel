@@ -1,0 +1,84 @@
+[
+    {
+        "district_code": "99",
+        "district_name": "",
+        "city_code": "99",
+        "city_name": "BANDAR TIDAK DINYATAKAN",
+        "area_code": "99",
+        "area_name": null,
+        "street": [
+            {
+                "street_code": "99",
+                "street_name": ""
+            }
+        ]
+    },
+    {
+        "district_code": "99",
+        "district_name": "",
+        "city_code": "99",
+        "city_name": "BANDAR TIDAK DINYATAKAN",
+        "area_code": "99999",
+        "area_name": "TAMAN TIDAK DINYATAKAN",
+        "street": [
+            {
+                "street_code": "99999",
+                "street_name": "JALAN TIDAK DINYATAKAN"
+            }
+        ]
+    },
+    {
+        "district_code": "BK",
+        "district_name": "BANDAR KULAI",
+        "city_code": "05B",
+        "city_name": "KULAI",
+        "area_code": "107",
+        "area_name": "KAMPUNG BARU KULAI",
+        "street": [
+            {
+                "street_code": "01163",
+                "street_name": "JALAN KAMPUNG BARU KULAI"
+            },
+            {
+                "street_code": "02867",
+                "street_name": "JALAN MARIAM"
+            },
+            {
+                "street_code": "03058",
+                "street_name": "JALAN DURIAN 4"
+            },
+            {
+                "street_code": "03064",
+                "street_name": "JALAN DURIAN"
+            },
+            {
+                "street_code": "107107",
+                "street_name": "JALAN SEKOLAH CINA"
+            },
+            {
+                "street_code": "107107109",
+                "street_name": "JALAN LENGKONGAN 5"
+            },
+            {
+                "street_code": "107108",
+                "street_name": "JALAN LENGKUNGAN"
+            },
+            {
+                "street_code": "107109",
+                "street_name": "JALAN ABU BAKAR"
+            },
+            {
+                "street_code": "107110",
+                "street_name": "JALAN LENGKONGAN 1"
+            },
+            {
+                "street_code": "107111",
+                "street_name": "JALAN BUDIMAN 1"
+            },
+            {
+                "street_code": "107112",
+                "street_name": "JALAN RUMAH PANGSA 4"
+            }
+        ]
+    }
+]
